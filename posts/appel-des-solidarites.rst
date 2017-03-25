@@ -7,8 +7,6 @@
 .. description: 
 .. type: text
 
-Appel des solidarités, appel à l'insoumission
-
 M. Nicolas Hulot accompagné par 80 ONG lance un  "appel des solidarités". Bien sur, nous ne pouvons que nous féliciter du fait qu'une attention particulière soit  donnée à ces thématiques dans le débat pour l'élection présidentielle. Bien sur...Mais dans le contexte ambiant de repli sur soi, il y a quand même  un programme politique qui  tranche par l'ampleur de ses ambitions en matière de solidarité.
 C'est celui de la France Insoumise.
 Solidarité entre être humains d'abord. Une Assurance Sociale à 100% accompagnée d' une politique du logement qui assure à chacun le droit  d'avoir un toit, la retraite à 60 ns avec 40 annuités, l'augmentation du SMIG à 1350 euros net. Politique d'accueil des réfugiés simplement humaine et digne, à la mesure de ce que notre conscience attend.
