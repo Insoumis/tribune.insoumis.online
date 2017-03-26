@@ -1,5 +1,5 @@
 .. title: Le réflexe du matin ? Un café devant BFM.tv
-.. slug: cafe-et-bfn
+.. slug: cafe-et-bfm
 .. date: 2017-03-26 11:20:28 UTC+01:00
 .. tags: 
 .. category: 
