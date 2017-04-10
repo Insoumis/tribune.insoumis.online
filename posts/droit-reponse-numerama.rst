@@ -24,6 +24,7 @@ Pour terminer sur les explications, l'optimisation pour Chrome est simplement du
 Je vous prierais de corriger au moins la partie qui me cite pour la remplacer par celle que l'on trouve sur le Monde Pixels. Merci d’avance.
 
 Bien cordialement,
+
 Miidnight pour le discord insoumis.
 
 Et sinon :
@@ -33,7 +34,8 @@ TOP
 - Remarque sur le détail des graphismes
 - Mention au discord 
 
-BOF 
+BOF
+
 - Partie qui tourne au procès d'intention à partir d'une citation détournée. 
 - Aucun intérêt ni mention pour les musiques ni pour d’autres références culturelles aux jeu vidéos que Fiscal Kombat contient.
 
