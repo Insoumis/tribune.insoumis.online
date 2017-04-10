@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tribune de la France Insoumise</title><link>http://tribune.insoumis.online/</link><description>Tribune de militants insoumis</description><atom:link rel="self" type="application/rss+xml" href="http://tribune.insoumis.online/rss.xml"></atom:link><language>fr</language><lastBuildDate>Mon, 10 Apr 2017 13:37:27 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Droit de réponse à Numera au sujet de Fiscal Kombat</title><link>http://tribune.insoumis.online/posts/droit-reponse-numerama/</link><dc:creator>Discord Insoumis</dc:creator><description>&lt;div&gt;&lt;p&gt;Bonjour, je suis la personne qui a été interviewée par le Monde Pixels au sujet du jeu Fiscal Kombat, et je souhaiterais exercer mon droit de réponse, suite à votre article du 10 avril à ce sujet. &lt;a class="footnote-reference" href="http://tribune.insoumis.online/posts/droit-reponse-numerama/#id2" id="id1"&gt;[1]&lt;/a&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Tribune de la France Insoumise</title><link>http://tribune.insoumis.online/</link><description>Tribune de militants insoumis</description><atom:link href="http://tribune.insoumis.online/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>fr</language><lastBuildDate>Mon, 10 Apr 2017 14:19:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Droit de réponse à Numera au sujet de Fiscal Kombat</title><link>http://tribune.insoumis.online/posts/droit-reponse-numerama/</link><dc:creator>Discord Insoumis</dc:creator><description>&lt;div&gt;&lt;p&gt;Bonjour, je suis la personne qui a été interviewée par le Monde Pixels au sujet du jeu Fiscal Kombat, et je souhaiterais exercer mon droit de réponse, suite à votre article du 10 avril à ce sujet. &lt;a class="footnote-reference" href="http://tribune.insoumis.online/posts/droit-reponse-numerama/#id2" id="id1"&gt;[1]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Je me permets d’attirer votre attention sur une erreur que vous avez commise en recopiant la citation suivante tirée du Monde Pixels :
 « C’est un peu une blague, explique Miidnight. On est une équipe très restreinte, et comme Marine Le Pen ne représente pas [l’oligarchie], moi, je ne voulais pas trop la mettre. On en a parlé à notre graphiste, qui a dit que de toute façon il refusait de la dessiner ! »
 Dans votre reprise, les crochets [l’oligarchie] ont été retirés.&lt;/p&gt;
@@ -8,17 +8,19 @@ Dans votre reprise, les crochets [l’oligarchie] ont été retirés.&lt;/p&gt;
 &lt;p&gt;Je regrette cependant que la fin de votre article tourne au procès d'intention : là où Emmanuel Macron est le candidat de la finance et où François Fillon s'est illustré dans des scandales financiers vous expliquez ne pas savoir "vraiment ce qui justifie" de les secouer. C’est assez paradoxal alors même que vous placez « Rends l’argent » et Fillon dans votre top.&lt;/p&gt;
 &lt;p&gt;Pour terminer sur les explications, l'optimisation pour Chrome est simplement due à un manque de temps. C'est à cet endroit plutôt qu'au fait d'avoir exclu la candidate d’extrême droite de notre jeu qu'il fallait chercher pour imaginer nos rapports avec l'équipe de campagne. Nous sommes bénévoles et indépendants, cette initiative est spontanée, vous pouvez donc comprendre que nous manquons de temps et de moyens sans quoi nous aurions déjà sorti une version compatible avec tous les navigateurs ainsi qu'une version mobile, à laquelle nous travaillons encore aujourd'hui. Contrairement à nos adversaires, nous ne manquons pas d’idées mais de moyens.&lt;/p&gt;
 &lt;p&gt;Je vous prierais de corriger au moins la partie qui me cite pour la remplacer par celle que l'on trouve sur le Monde Pixels. Merci d’avance.&lt;/p&gt;
-&lt;p&gt;Bien cordialement,
-Miidnight pour le discord insoumis.&lt;/p&gt;
+&lt;p&gt;Bien cordialement,&lt;/p&gt;
+&lt;p&gt;Miidnight pour le discord insoumis.&lt;/p&gt;
 &lt;p&gt;Et sinon :&lt;/p&gt;
 &lt;p&gt;TOP&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Remarque sur le détail des graphismes&lt;/li&gt;
 &lt;li&gt;Mention au discord&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;BOF
-- Partie qui tourne au procès d'intention à partir d'une citation détournée.
-- Aucun intérêt ni mention pour les musiques ni pour d’autres références culturelles aux jeu vidéos que Fiscal Kombat contient.&lt;/p&gt;
+&lt;p&gt;BOF&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Partie qui tourne au procès d'intention à partir d'une citation détournée.&lt;/li&gt;
+&lt;li&gt;Aucun intérêt ni mention pour les musiques ni pour d’autres références culturelles aux jeu vidéos que Fiscal Kombat contient.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;table class="docutils footnote" frame="void" id="id2" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label"&gt;&lt;col&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
