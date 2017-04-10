@@ -1,6 +1,6 @@
 .. title: Droit de réponse à Numera au sujet de Fiscal Kombat
 .. slug: droit-reponse-numerama
-.. date: 2017-10-04 13:00:00 UTC+02:00
+.. date: 2017-04-10 13:00:00 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
