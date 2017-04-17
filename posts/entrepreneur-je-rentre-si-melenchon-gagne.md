@@ -1,4 +1,13 @@
 
+.. title: Entrepreneur dans la Silicon Valley, je rentre en France si Jean-Luc Mélenchon est élu.
+.. slug: entrepreneur-je-rentre-si-melenchon-gagne.md
+.. date: 2017-04-17 11:20:28 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
 Entrepreneur dans la Silicon Valley, je rentre en France si Jean-Luc Mélenchon est élu.
 
 On peut dire ce que l’on veut, mais être un entrepreneur c’est être quelque part un contestataire de l’ordre établi. Un insatisfait de l’existant, un insoumis, qui souhaite apporter au monde une nouvelle offre. Elle peut être commerciale, technologique, ergonomique, industrielle, mais elle se fera toujours à travers un collectif humain, dans la quasi totalité des cas sous la forme de l’entreprise.
