@@ -8,9 +8,9 @@
 .. type: text
 
 
-Alors que nous devrions faire confiance aux médias en cette période de neutralité électorale et d'égalité des temps de parole de chacun des candidats, le JT de France 2 du 19 avril 2017[#]_ n'a prononcé aucun mot sur le candidat de la France Insoumise. Les 7 meetings dont 6 hologrammes de la veille n'y ont rien fait, quid des 35 000 personnes en salle assistant aux meetings de Dijon, Clermont-Ferrand, Nantes, Le Port-La Réunion, Montpellier, Grenoble et Nancy. Quid des 65 0000 personnes qui ont suivi l'événement sur Internet ?[#]_.
+Alors que nous devrions faire confiance aux médias en cette période de neutralité électorale et d'égalité des temps de parole de chacun des candidats, le JT de France 2 du 19 avril 2017 [#]_ n'a prononcé aucun mot sur le candidat de la France Insoumise. Les 7 meetings dont 6 hologrammes de la veille n'y ont rien fait, quid des 35 000 personnes en salle assistant aux meetings de Dijon, Clermont-Ferrand, Nantes, Le Port-La Réunion, Montpellier, Grenoble et Nancy. Quid des 65 0000 personnes qui ont suivi l'événement sur Internet ? [#]_ .
 
-Il est à noter que Jean-Luc Mélenchon a déjà du retard sur son temps de parole par rapport aux autres candidats susceptibles d'être au second tour[#]_.
+Il est à noter que Jean-Luc Mélenchon a déjà du retard sur son temps de parole par rapport aux autres candidats susceptibles d'être au second tour [#]_ .
  
 Pourtant, lors de ce journal on apprend :
 - En bref, lors de l'annonce des titres, que Marine Le Pen sera en meeting à Marseille.
@@ -31,9 +31,11 @@ Toutefois, on ne retient pas notre souffle, donc surprenez-nous !
 
 
 
+
 *Travail collaboratif du Discord des insoumis (discord.insoumis.online), comme la multitude de projets sur lesquels nous travaillons pour la campagne sur Internet de la France Insoumise.* 
 
 *Jean-Luc Mélenchon et l’équipe de campagne de la France Insoumise ne sont pas responsables des initiatives du Discord des insoumis et n’ont pas participé à l’écriture de cette tribune.*
+
 
 
  .. [#] http://www.francetvinfo.fr/replay-jt/france-2/13-heures/jt-de-13h-du-mercredi-19-avril-2017_2142212.html
