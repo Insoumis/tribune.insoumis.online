@@ -13,13 +13,19 @@ Alors que nous devrions faire confiance aux médias en cette période de neutral
 Il est à noter que Jean-Luc Mélenchon a déjà du retard sur son temps de parole par rapport aux autres candidats susceptibles d'être au second tour [#]_ .
  
 Pourtant, lors de ce journal on apprend :
+
 - En bref, lors de l'annonce des titres, que Marine Le Pen sera en meeting à Marseille.
+
 - Que Fillon rencontrait Juppé et était en meeting à Lille (avec extraits)
+
 - Que Hamon était en meeting à Toulouse (avec extraits)
 
 Puis par souci d'égalité sûrement mais traité plus rapidement : 
+
 - Que Poutou était en meeting à Toulouse (avec extraits)
+
 - Et plus rapidement que Cheminade et Asselineau faisaient des meetings avec retransmission sur Internet.
+
 - Enfin, en conclusion, on annonce le prochain meeting de Hamon ce jour-ci (le 19).
 
 Hélas, nous pouvions y croire, des images du meeting étaient présentées lors de l'annonce des titres. Toutefois, pendant leur point "Campagne", pas un mot n’a été prononcé sur le candidat de la France Insoumise, ni sur le fait qu'il ait réuni un nombre très important de personnes lors de son meeting multiple, que ce soit sur le terrain ou sur les réseaux sociaux. La rédaction n’a pas non plus jugé intéressant de parler de l'exploit technique. Non, ça a juste été évoqué indirectement via une critique formulée par Benoit Hamon ou pendant la promotion de leur débat à onze ce jeudi.
