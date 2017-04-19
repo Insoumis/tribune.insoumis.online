@@ -1,4 +1,4 @@
-.. title: Réponse au JT télévisé de France 2 du 13h / 19-04-17
+.. title: Réponse au JT télévisé de France 2 du 13h - 19-04-17
 .. slug: france-2-et-equite-du-temps-de-parole
 .. date: 2017-04-19 18:00:00 UTC+01:00
 .. tags: 
