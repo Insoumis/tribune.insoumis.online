@@ -1,6 +1,6 @@
 .. title: Réponse au communiqué du Parti Socialiste du 21 avril 2017
 .. slug: reponse-communiqué-ps-21-avril
-.. date: 2017-04-22 23:30:28 UTC+02:00
+.. date: 2017-04-21 23:30:28 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
