@@ -20,3 +20,7 @@ Le paragraphe suivant est une magnifique démonstration du sophisme de la pente 
 Vous finissez par prétendre que les français voteraient pour Jean-Luc Mélenchon car ils auraient été “séduits”, autant le dire franchement, dupés. Nous n’avons plus le temps de nous attarder pour expliquer les mécanismes économiques (https://blogs.mediapart.fr/jacques-milan/blog/190417/le-programme-economique-de-melenchon-un-programme-keynesien-et-ecologique-0). Le programme “l’avenir en commun” (https://laec.fr/) est cependant appuyé par un comité concerté de 134 économistes (http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/04/18/pour-une-politique-economique-serieuse-et-a-la-hauteur-des-enjeux-votons-melenchon_1563456). Le balayer d’un revers de la main en le qualifiant de “non réaliste” nous semble donc non seulement simpliste, mais presque insultant.
 
 Nous nous permettons d’insister à nouveau sur le caractère malhonnête de votre tribune. Publier un contenu à ce point caricatural à l’argumentation - disons légère - si peu de temps avant la fin officielle de la campagne n’est pas acceptable d’un point de vue démocratique.
+
+*Travail collaboratif du Discord des insoumis (discord.insoumis.online), comme la multitude de projets sur lesquels nous travaillons pour la campagne sur Internet de la France Insoumise.* 
+
+*Jean-Luc Mélenchon et l’équipe de campagne de la France Insoumise ne sont pas responsables des initiatives du Discord des insoumis et n’ont pas participé à l’écriture de cette tribune.*
