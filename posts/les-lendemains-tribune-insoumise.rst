@@ -1,6 +1,6 @@
 .. title: Les lendemains 
 .. slug: les-lendemains-tribune-insoumise
-.. date: 2017-04-25 23:21:35 UTC+01:00
+.. date: 2017-04-25 23:21:35 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
