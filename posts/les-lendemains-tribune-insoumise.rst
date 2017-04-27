@@ -15,7 +15,7 @@ Mes ami.e.s, notre pays est d'ores et déjà dans une dictature. Une dictature d
 
 Nous allons droit dans le mur. L'urgence écologique et sociale doit être encore plus présente dans nos esprits. Puisque nos concitoyen.ne.s et nos dirigeants ne s'en préoccupent pas, nous leur ferons entendre raison, par la rue, par la discussion, par une présence toujours plus importante et déterminée.
 
-Nous rêvons d'un monde où nous serions sorti.e.s du nucléaire, où nous ne prendrions pas plus à la Terre que ce qu'elle peut produire. Nous imaginons un futur vert où toutes les populations pourraient avoir un accès libre à une eau saine et à une électricité propre.
+Nous rêvons d'un monde où nous serions sorti.e.s du nucléaire, où nous ne prendrions pas plus à la Terre que ce qu'elle peut produire. Nous imaginons un futur vers où toutes les populations pourraient avoir un accès libre à une eau saine et à une électricité propre.
 Nous rêvons d'une société réellement égalitaire, avec un partage des richesses, la fin du patriarcat et l'enterrement du mot racisme. Puisque nous avons tous une origine africaine commune et que devant la loi, dans la République, nous sommes tous égaux.ales en droit.
 Nous rêvons d'une véritable démocratie où les esprits et les libertés pourraient prospérer, dans laquelle le débat s'élèverait et où le dialogue prévaudrait sur la peur et la manipulation. 
 
