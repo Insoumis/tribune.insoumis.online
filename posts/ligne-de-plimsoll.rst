@@ -8,7 +8,7 @@
 .. type: text
  
 
- Amis Insoumis, à l’approche des législatives, laissez-moi vous raconter l’histoire de Samuel Plimsoll et de la « ligne de Plimsoll [#]_ ». 
+Amis Insoumis, à l’approche des législatives, laissez-moi vous raconter l’histoire de Samuel Plimsoll et de la « ligne de Plimsoll [#]_ ». 
 
 
 
