@@ -12,6 +12,7 @@ Amis Insoumis, à l’approche des législatives, laissez-moi vous raconter l’
 
 
 
+
 Il faut savoir qu’avec la révolution industrielle, les Anglais exportaient et importaient beaucoup de fret en provenance ou à destination de leurs colonies et ce, par bateau. Or, l’Angleterre a dû faire face à une multiplication de naufrages de navires marchands surchargés et désuets, tuant ainsi des centaines de marins marchands (à un tel-point qu’ils furent appelés « navires-cercueils. ») (En anglais : « Coffin Ships »)
 
 C’est certain que les navires pouvaient être surchargés depuis la nuit des temps, mais dans ce cas précis c’est le début du système des assurances qui a créé la notion de navires-cercueils. Il est à noter que ce nom est toujours utilisé pour désigner familièrement tous navires surassurés, de telle sorte qu’ils valent plus à leurs propriétaires suite à un naufrage, que lorsque le bateau flottait encore.
@@ -19,6 +20,7 @@ C’est certain que les navires pouvaient être surchargés depuis la nuit des t
 Et c’est justement là le problème : les armateurs surchargeaient leurs bateaux en sachant pertinemment qu’ils gagneraient des sommes toutes aussi importantes et similaires si le bateau faisait naufrage ou s’il arrivait à bon port. Parce que nous étions aux prémices de l’assurance, peu comprenaient que l’assurance d’un objet quelconque pouvait changer les mentalités et le comportement des gens. (Comportement plus risqué avec l’assurance) 
  
 Ainsi, les armateurs étaient motivés à couler leurs propres bateaux sans se soucier que cela provoquerait de la mort de centaines de marins marchands.
+
 
 
 
@@ -30,6 +32,7 @@ Si vous vous promenez près d’un navire de marchandises, cherchez sur la coque
 
 
 Morale de l’histoire : Les lois qui changent le monde et sauvent des vies sont des lois déposées non pas par des députés qui sont liés aux grandes compagnies et aux puissants, mais plutôt par des députés qui ont à cœur la protection des salariés face à la quête incessante de profits mirobolants.
+
 
 
 
