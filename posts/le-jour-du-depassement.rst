@@ -1,5 +1,5 @@
 .. title: Le jour du dépassement
-.. slug: Le-jour-du-dépassement
+.. slug: le-jour-du-depassement
 .. date: 2017-08-03 21:50:12 UTC+01:00
 .. tags: 
 .. category: 
@@ -10,7 +10,7 @@
 Le 2 août est cette année le jour du dépassement. Comme l’a annoncé le *think tank* californien *Global Footprint Network* [#]_ , cela signifie qu’à cette date, nous avons fini de consommer ce que la Terre pouvait régénérer en une année. Jusqu’à la fin de l’année, nous vivrons donc « à crédit » de notre planète.
 Cette annonce a été reprise par beaucoup de médias, elle est très parlante. Cependant, la seule date du jour du dépassement ne saurait représenter notre planète dans toute sa diversité. Par sa nature de mesure globale, elle cache les disparités qu’il y a entre les différentes régions du monde. En effet, un habitant des États-Unis consomme en moyenne deux fois plus qu’un habitant de la Chine, alors qu’un Européen est entre les deux. Mais elle permet tout de même de se représenter plus clairement les efforts qu’il faudrait faire pour parvenir à un mode de vie durable, où l’humanité ne prendrait pas plus que ce que la planète peut produire tous les ans, comme le propose d’ailleurs la France Insoumise dans son programme avec une « règle verte » [#]_ à inscrire dans la constitution. 
 
-# Une biocapacité finie
+## Une biocapacité finie
 ========================
 
 Pour arriver à ce résultat, *Global Footprint Network* calcule deux grandeurs. Elles sont exprimées dans la même unité, les « hectares globaux », qui représentent la production que la Terre génère en une année pour un hectare virtuel. Le nombre d’hectares globaux dont dispose notre planète est appelé la biocapacité. Ce nombre est obtenu en convertissant les hectares réels de notre planète : à chaque type d’hectare (forêt, bâtiments, etc.) on associe un certain nombre d’hectares globaux qui représentent ce que notre planète peut régénérer en un an.
@@ -22,7 +22,7 @@ L’ONG *Global Footprint Network* affirme que tous ces chiffres fournissent des
 
 Ces deux mesures permettent ensuite de calculer le jour à partir duquel on a consommé tout ce que la Terre peut régénéré au cours de l’année. Tous les ans, ce jour avance dans l’année. Ainsi, nous somme passée du 1er novembre en 1986 au 2 août cette année.
 
-# « Emprunter » à notre planète
+## « Emprunter » à notre planète
 ================================
 
 Ainsi, pendant les 5 mois qui restent pour finir l’année, nous allons « emprunter » à notre planète. Et cette période risque de s’allonger dans les années à venir, en particulier si nous ne parvenons pas à diminuer nos besoins et nos modes de consommation.
