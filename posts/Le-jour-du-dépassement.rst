@@ -1,3 +1,12 @@
+.. title: Le jour du dépassement
+.. slug: Le-jour-du-dépassement
+.. date: 2017-08-03 21:50:12 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
 Le 2 août est cette année le jour du dépassement. Comme l’a annoncé le *think tank* californien *Global Footprint Network* [#]_ , cela signifie qu’à cette date, nous avons fini de consommer ce que la Terre pouvait régénérer en une année. Jusqu’à la fin de l’année, nous vivrons donc « à crédit » de notre planète.
 Cette annonce a été reprise par beaucoup de médias, elle est très parlante. Cependant, la seule date du jour du dépassement ne saurait représenter notre planète dans toute sa diversité. Par sa nature de mesure globale, elle cache les disparités qu’il y a entre les différentes régions du monde. En effet, un habitant des États-Unis consomme en moyenne deux fois plus qu’un habitant de la Chine, alors qu’un Européen est entre les deux. Mais elle permet tout de même de se représenter plus clairement les efforts qu’il faudrait faire pour parvenir à un mode de vie durable, où l’humanité ne prendrait pas plus que ce que la planète peut produire tous les ans, comme le propose d’ailleurs la France Insoumise dans son programme avec une « règle verte » [#]_ à inscrire dans la constitution. 
 
